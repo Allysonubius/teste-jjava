@@ -1,1 +1,0 @@
-INDEX VERSION 1.131+C:\Users\allys\Documents\GitHub\Teste-Java\.metadata\.plugins\org.eclipse.jdt.core
